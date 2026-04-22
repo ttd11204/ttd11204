@@ -22,31 +22,38 @@
 ## 🛠 Tech Stack
 
 ### 💻 Languages
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?logo=javascript)
-![C#](https://img.shields.io/badge/-CSharp-000?logo=csharp)
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+</p>
 
 ### ⚛️ Frontend
-![React](https://img.shields.io/badge/-React-000?logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?logo=next.js)
-![Redux](https://img.shields.io/badge/-Redux-000?logo=redux)
-![React Query](https://img.shields.io/badge/-ReactQuery-000?logo=reactquery)
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-000?logo=tailwindcss)
-![ShadCN](https://img.shields.io/badge/-ShadCN-000)
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ShadCN_UI-000000?style=for-the-badge"/>
+</p>
 
 ### 🌐 Web
-![HTML5](https://img.shields.io/badge/-HTML5-000?logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?logo=css3)
-![REST API](https://img.shields.io/badge/-REST_API-000)
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge"/>
+</p>
 
 ### 🛠 Tools
-![Git](https://img.shields.io/badge/-Git-000?logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-000?logo=github)
-![Postman](https://img.shields.io/badge/-Postman-000?logo=postman)
-![Docker](https://img.shields.io/badge/-Docker-000?logo=docker)
-![Firebase](https://img.shields.io/badge/-Firebase-000?logo=firebase)
-![Jest](https://img.shields.io/badge/-Jest-000?logo=jest)
-
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+</p>
 ---
 
 ## 🚀 Featured Projects
