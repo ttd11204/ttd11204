@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Dat
+# Hi there 👋 I'm Tran Thanh Dat
 
 Frontend Developer with ~1 year of experience building modern web applications using **React.js, Next.js, and TypeScript**.
 I focus on **performance, scalability, and clean UI/UX**, with hands-on experience in real-world projects and Agile environments.
