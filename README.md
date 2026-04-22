@@ -108,19 +108,6 @@
 * Solved data inconsistency issues with validation strategies
 * Optimized selectors and improved bot stability
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ttd11204&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=ttd11204&theme=tokyonight" />
-</p>
-
----
 
 ## 📫 Contact
 
